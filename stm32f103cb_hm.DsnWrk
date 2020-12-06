@@ -1,0 +1,8 @@
+[ProjectGroup]
+Version=1.0
+[Project1]
+ProjectPath=..\altiumlib\Schematic.LibPkg
+[Project2]
+ProjectPath=sch\stm32f103cb_hm.PrjPcb
+[Project3]
+ProjectPath=..\github\stm32f103cb_vm\sch\em32f103cb.PrjPcb
