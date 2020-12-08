@@ -6,3 +6,5 @@ ProjectPath=..\altiumlib\Schematic.LibPkg
 ProjectPath=sch\stm32f103cb_hm.PrjPcb
 [Project3]
 ProjectPath=..\github\stm32f103cb_vm\sch\em32f103cb.PrjPcb
+[Project4]
+ProjectPath=..\Softwarely\Git\moisair\sch\v3\MoisAir3.PrjPCB
