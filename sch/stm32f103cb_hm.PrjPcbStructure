@@ -1,1 +1,3 @@
-Record=TopLevelDocument|FileName=stm32f103cb_hm_F100.SchDoc
+Record=TopLevelDocument|FileName=stm32f103cb_hm_F100.SchDoc|SheetNumber=1
+Record=NoMainPathDocument|SourceDocument=stm32f103cb_hm_F100.SchDoc|FileName=stm32f103cb_hm_L073.SchDoc|SheetNumber=1
+Record=NoMainPathDocument|SourceDocument=stm32f103cb_hm_F100.SchDoc|FileName=stm32f103cb_hm_main.SchDoc|SheetNumber=1
