@@ -8,3 +8,5 @@ ProjectPath=sch\stm32f103cb_hm.PrjPcb
 ProjectPath=..\github\stm32f103cb_vm\sch\em32f103cb.PrjPcb
 [Project4]
 ProjectPath=..\Softwarely\Git\moisair\sch\v3\MoisAir3.PrjPCB
+[Project5]
+ProjectPath=..\mlach\TIMERTTL1A\sch\TIMERTTL1A.PrjPcb
