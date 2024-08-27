@@ -1,3 +1,4 @@
+__Projekt nieukończony, zarchiwizowany, przeniesiony do chmury p:/E/Design/starocie/mlach/__
 # stm32f103cb_hm
 Poziomy moduł z STM32F103CBT6, jakich wiele. Ponieważ nie lubię terminala przez DBG, poświęciłem USART1 na komunikację i dodałem popularny konwerter serial/USB. Ten port można oczywiście wykorzytać do innych celów, wracając do DBG.
 
